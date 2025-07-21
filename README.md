@@ -2,7 +2,7 @@
 
 Welcome to the **To-Do List CLI App** — a simple, elegant, and beginner-friendly Python project for managing your daily tasks right from the command line.
 
-> 🎯 “Plan your work, work your plan.” – Napoleon Hill
+Stay focused, organized, and productive! 🚀
 
 ---
 
